@@ -1,0 +1,11 @@
+{
+  "name": "tranzita",
+  "version": "1.0.0",
+  "description": "URL shortening tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranu Sharma <ranusharma.2401@gmail.com>",
+  "license": "ISC"
+}
